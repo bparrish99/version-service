@@ -1,0 +1,99 @@
+{
+  "customers" : {
+    "whitefall" : {
+      "qa" : "2.3.0",
+      "test" : "2.2.0",
+      "prod" : "2.2.0"
+    },
+    "greenleaf" : {
+      "qa" : "2.3.0",
+      "test" : "1.9.0",
+      "prod" : "2.2.0"
+    },
+    "loanone" : {
+      "qa" : "2.2.0",
+      "test" : "2.2.0",
+      "prod" : "2.2.0"
+    },
+    "gsf" : {
+      "qa" : "2.2.0",
+      "test" : "2.2.0",
+      "prod" : "2.2.0"
+    },
+    "gem" : {
+      "qa" : "2.2.0",
+      "test" : "2.2.0",
+      "prod" : "2.2.0"
+    },
+    "alameda" : {
+      "qa" : "2.2.0",
+      "test" : "2.2.0",
+      "prod" : "2.2.0"
+    },
+    "gatecity" : {
+      "qa" : "2.2.0",
+      "test" : "2.2.0",
+      "prod" : "2.2.0"
+    },
+    "perl" : {
+      "qa" : "2.2.0",
+      "test" : "2.2.0",
+      "prod" : "2.2.0"
+    },
+    "pfs" : {
+      "qa" : "2.2.0",
+      "test" : "2.2.0",
+      "prod" : "2.2.0"
+    },
+    "vellum" : {
+      "qa" : "2.2.0",
+      "test" : "2.2.0",
+      "prod" : "2.2.0"
+    },
+    "apex" : {
+      "qa" : "2.2.0",
+      "test" : "2.2.0",
+      "prod" : "2.2.0"
+    },
+    "harborone" : {
+      "qa" : "2.2.0",
+      "test" : "2.2.0",
+      "prod" : "2.2.0"
+    },
+    "unionbank" : {
+      "qa" : "2.2.0",
+      "test" : "2.2.0",
+      "prod" : "2.2.0"
+    }
+  },
+  "urlmap" : {
+    "loanone.borrowerwallet.com" : {
+      "customer" : "loanone",
+      "env" : "prod"
+    },
+    "gsf.borrowewallet.com" : {
+      "customer" : "gsf",
+      "env" : "prod"
+    },
+    "amchub.alamedamortgage.com" : {
+      "customer" : "alameda",
+      "env" : "prod"
+    },
+    "myloan.perlmortgage.com" : {
+      "customer" : "perl",
+      "env" : "prod"
+    },
+    "vellum.borrowerwallet.com" : {
+      "customer" : "vellum",
+      "env" : "prod"
+    },
+    "apex.borrowerwallet.com" : {
+      "customer" : "apex",
+      "env" : "prod"
+    },
+    "unionbank.borrowerwallet.com" : {
+      "customer" : "unionbank",
+      "env" : "prod"
+    }
+  }
+}
